@@ -2,3 +2,5 @@ git add.
 // Se prepara para tomar una foto de todos los archivos que tengo en mi proyecto en este precisio momento, puedo regresar a ella.
 git commit -m ""
 // "": mensaje significativo ej: git commit -m "Primer commit"
+git checkout -- .
+//Recontrute los archivos al ultimo commit agregago
